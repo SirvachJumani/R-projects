@@ -1,6 +1,3 @@
-
-#### Assignment 3  Sirvach Jumani NO: 1512729    ######
-
 # Preamble (sets working directory, clears memory, resets) ---------------------
 
 if (!("rstudioapi" %in% installed.packages())) {install.packages("rstudioapi")}
